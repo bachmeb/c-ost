@@ -4,7 +4,6 @@
 * http://archive.oreilly.com/oreillyschool/courses/c/index.html
  
 ##### [Lesson 1: Getting Started](/lesson/1.md)
-* About CodeRunner
 * Getting familiar with Unix
 * Listing Files
 * Directories
@@ -13,7 +12,6 @@
 
 ##### [Lesson 2: Editing Files](/lesson/2.md)
 * Editing Files
-* Editing Files with CodeRunner
 
 ##### [Lesson 3: Introduction to C](/lesson/3.md)
 * What is C?
